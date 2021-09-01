@@ -1,0 +1,21 @@
+.about{
+    text-align: center;
+    padding: 3em;
+    
+    background-color:  #222831;
+}
+.abouttitle{
+    font-size: 3rem;
+  color: #00adb5;
+  
+}
+.aboutdiscription{
+    color: rgba(238, 238, 238, 0.7);
+    font-size: 2em;
+    max-width: 100%;
+   
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+}
